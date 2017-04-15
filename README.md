@@ -1,6 +1,6 @@
 # ClearWeather - Plugin for Bukkit | Spigot
 
-Clear weather for your server.
+Clear weather for your defined server worlds.
 
 #### Supported Versions: 1.11+
 

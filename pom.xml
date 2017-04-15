@@ -13,7 +13,7 @@
     <!-- Plugin Information -->
     <!-- Name, Description, and URL are used in plugin.yml -->
     <name>ClearWeather</name>
-    <description>Clear weather for your server.</description>
+    <description>Clear weather for your defined server worlds.</description>
     <url>https://github.com/dwesolowski</url>
 
     <licenses>
