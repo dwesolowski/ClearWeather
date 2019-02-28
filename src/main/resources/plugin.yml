@@ -1,7 +1,4 @@
-name: ${name}
+name: ClearWeather
 version: ${version}
-description: ${description}
-author: ${author}
-website: ${url}
-
-main: ${mainClass}
+main: com.github.dwesolowski.clearweather.ClearWeather
+api-version: 1.13

@@ -2,7 +2,7 @@
 
 Clear weather for your defined server worlds.
 
-#### Supported Versions: 1.11+
+#### Supported Versions: 1.13+
 
 ## Installation
 
