@@ -1,5 +1,7 @@
 # ClearWeather - Plugin for Bukkit | Spigot
 
+[![Software License](http://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square)](LICENSE)
+
 Clear weather for your defined server worlds.
 
 #### Supported Versions: 1.13+
