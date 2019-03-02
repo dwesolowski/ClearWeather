@@ -15,11 +15,16 @@ public class ClearWeather extends JavaPlugin {
     public void onEnable() {
         getServer().getPluginManager().registerEvents(new OnWeatherChangeEvent(this), this);
         saveDefaultConfig();
+        registerMetrics();
 
         for (World w : Bukkit.getWorlds()) {
             if (allowedWorlds.contains(w.getName())) {
                 w.setStorm(false);
             }
         }
+    }
+
+    private void registerMetrics() {
+        final MetricsLite metrics = new MetricsLite(this);
     }
 }
